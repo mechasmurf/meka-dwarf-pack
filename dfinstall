@@ -3,7 +3,7 @@ dnf install dwarffortress
 dnf install dfhack
 dnf install dwarftherapist
 dfhack
-cp -i twbt.plus.so ~/.dwarffortress/hack/plugins
-cp -i data ~/.dwarffortress
-cp -i raw ~/.dwarffortress
+cp -r twbt.plug.so ~/.dwarffortress/hack/plugins
+cp -r data ~/.dwarffortress
+cp -r raw ~/.dwarffortress
 
