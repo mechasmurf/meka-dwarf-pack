@@ -1,0 +1,8 @@
+#!/bin/bash
+dnf install dwarffortress
+dnf install dfhack
+dnf install dwarftherapist
+mv -i twbt.plus.so ~/.dwarffortress/hack/plugins
+mv -i data ~/.dwarffortress
+mv -i raw ~/.dwarffortress
+
